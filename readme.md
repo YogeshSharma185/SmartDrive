@@ -1,4 +1,4 @@
-# Car Game: Manual Thrill meets AI Skill 🚗🤖
+# SmartDrive: Manual Thrill meets AI Skill 🚗🤖
 
 ## Overview
 This project is a custom 2D driving game environment with **two modes**:
@@ -28,8 +28,8 @@ The project combines **real-time rendering, AI-based gameplay, and manual intera
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/car-game-rl.git
-cd car-game-rl
+git clone https://github.com/YogeshSharma185/SmartDrive.git
+cd SmartDrive
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -39,11 +39,6 @@ source env/bin/activate   # For Windows: env\Scripts\activate
 ```
 
 ### 3️⃣ Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Requirements
 ```bash
 pip install -r requirements.txt
 ```
@@ -66,6 +61,8 @@ python start.py
 - ⬆️: Accelerate  
 - ⬇️: Brake  
 - `R`: Restart after game over  
+- `Q`: Quit the game  
+
 
 ### AI (RL) Mode
 ```bash
