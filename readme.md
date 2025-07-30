@@ -1,0 +1,1 @@
+python start.py to run the program 
