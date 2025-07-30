@@ -7,7 +7,7 @@ pygame.mixer.init()
 
 SCREEN_WIDTH, SCREEN_HEIGHT = 800, 600
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("SmartDrive - Where Manual Thrill meets AI Skills")
+pygame.display.set_caption("SmartDrive: Where Manual Thrill meets AI Skill ")
 clock = pygame.time.Clock()
 
 env = DrivingEnv(screen)

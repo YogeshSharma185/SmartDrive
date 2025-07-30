@@ -12,7 +12,7 @@ def main():
 
     pygame.init()
     screen = pygame.display.set_mode((800, 600))  # adjust if needed
-    pygame.display.set_caption("SmartDrive - Where Manual Thrill meets AI Skills")
+    pygame.display.set_caption("SmartDrive: Where Manual Thrill meets AI Skill ")
     font = pygame.font.SysFont(None, 30)
 
     last_reward = 0

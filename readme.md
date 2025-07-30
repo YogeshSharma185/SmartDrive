@@ -1,4 +1,4 @@
-# SmartDrive: Manual Thrill meets AI Skill 🚗🤖
+# SmartDrive: Where Manual Thrill meets AI Skill 
 
 ## Overview
 This project is a custom 2D driving game environment with **two modes**:

@@ -9,7 +9,7 @@ pygame.init()
 # Screen setup
 WIDTH, HEIGHT = 1000, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("SmartDrive - Self Driving Car")
+pygame.display.set_caption("SmartDrive: Where Manual Thrill meets AI Skill ")
 
 # Fonts
 title_font = pygame.font.SysFont("arialblack", 58)
